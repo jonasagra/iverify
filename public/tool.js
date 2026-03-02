@@ -19,6 +19,8 @@ const checkBtn = document.getElementById("checkBtn");
 const darkMode = document.getElementById("themeToggleApple");
 
 const regexModel = /^([MNPF])([A-Z0-9]{4,6})([A-Z]{2})(?:\/([A-Z]{1,2}))?$/;
+const themeStorageKey = "iverifyTheme";
+const systemThemeQuery = window.matchMedia("(prefers-color-scheme: dark)");
 const countryMap = {
     BR: "Brasil",
     LL: "EUA",
@@ -245,7 +247,23 @@ closeBtn.addEventListener("click", () => {
 });
 
 darkMode.addEventListener("change", () => {
-    document.body.classList.toggle("dark-mode", darkMode.checked);
+    const isDark = darkMode.checked;
+    document.body.classList.toggle("dark-mode", isDark);
+    localStorage.setItem(themeStorageKey, isDark ? "dark" : "light");
+});
+
+function applySavedTheme() {
+    const savedTheme = localStorage.getItem(themeStorageKey);
+    const isDark = savedTheme ? savedTheme === "dark" : systemThemeQuery.matches;
+    darkMode.checked = isDark;
+    document.body.classList.toggle("dark-mode", isDark);
+}
+
+systemThemeQuery.addEventListener("change", (event) => {
+    if (localStorage.getItem(themeStorageKey)) return;
+    const isDark = event.matches;
+    darkMode.checked = isDark;
+    document.body.classList.toggle("dark-mode", isDark);
 });
 
 async function initCatalog() {
@@ -259,4 +277,5 @@ async function initCatalog() {
     }
 }
 
+applySavedTheme();
 initCatalog();
