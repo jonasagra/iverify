@@ -21,12 +21,39 @@ body {
     overflow-x: hidden;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
+    -ms-overflow-style: auto;
 }
-body::-webkit-scrollbar {
-    width: 0;
-    height: 0;
+
+body,
+.modalContainer {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(44, 86, 110, 0.55) transparent;
+}
+
+body::-webkit-scrollbar,
+.modalContainer::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+    background: transparent;
+}
+
+body::-webkit-scrollbar-track,
+.modalContainer::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+body::-webkit-scrollbar-thumb,
+.modalContainer::-webkit-scrollbar-thumb {
+    background: rgba(44, 86, 110, 0.24);
+    border: 1.5px solid rgba(44, 86, 110, 0.6);
+    border-radius: 999px;
+    background-clip: padding-box;
+}
+
+body::-webkit-scrollbar-thumb:hover,
+.modalContainer::-webkit-scrollbar-thumb:hover {
+    background: rgba(44, 86, 110, 0.34);
+    border-color: rgba(44, 86, 110, 0.78);
 }
 .pageCenter {
     min-height: calc(100vh - 130px);
