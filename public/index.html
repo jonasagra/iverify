@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iVerify</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <div class="topBar">
+        <img src="./Apple logo.png" alt="Apple Logo" class="topBarLogo">
+    </div>
+
+    <div class="themeToggleRow">
+        <input type="checkbox" id="themeToggleApple" class="themeToggleApple">
+        <svg xmlns="http://www.w3.org/2000/svg" class="themeToggleIcon" viewBox="0 0 30 30" fill="currentColor"
+            stroke="currentColor" stroke-width="0.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+        </svg>
+    </div>
+
+    <main class="pageCenter">
+        <header class="main-header">
+            <h1>Verificador de modelo</h1>
+            <p>Descubra as especificações do modelo do seu iPhone.</p>
+        </header>
+
+        <section class="main-section">
+            <div class="input-container">
+                <input type="text" id="modelInput" placeholder="Modelo do iPhone" class="modelInput">
+                <button id="checkBtn" class="verifyBtn">Verificar</button>
+            </div>
+        </section>
+
+        <p class="databaseDisclaimer">
+            Banco de dados está com atualização até 01 de março de 2025. Alguns dados/modelos podem não estar disponíveis no momento.
+        </p>
+    </main>
+
+    <div class="modalContainer" id="modalContainer">
+        <button type="button" class="closeBtn" id="closeBtn">&times;</button>
+        <h2 class="modalHeader">Especificações</h2>
+        <div id="specsContainer">
+            <p id="numberModelOutput"></p>
+            <p id="countryOutput"></p>
+            <p id="modelOutput"></p>
+            <div id="modelPhotosWrap" class="modelPhotosWrap">
+                <div id="modelPhotosOutput" class="modelPhotosOutput"></div>
+            </div>
+            <p id="sulfixOutput"></p>
+            <p id="typeOutput"></p>
+            <p id="invalidOutput"></p>
+            <p id="storageOutput"></p>
+            <p id="colorOutput"></p>
+            <div id="colorSwatchesOutput" class="resultColorSwatches"></div>
+        </div>
+    </div>
+
+    <footer class="siteFooter">
+        <p>Developed by Jonas Agra<br>Assigned in Brazil</p>
+    </footer>
+
+    <script src="./tool.js"></script>
+</body>
+</html>

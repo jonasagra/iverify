@@ -1,0 +1,8 @@
+﻿{
+  "name": "iverify-tools",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "sync:models": "node ./scripts/sync-models.js"
+  }
+}

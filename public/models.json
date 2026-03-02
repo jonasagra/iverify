@@ -1,0 +1,3776 @@
+[
+  {
+    "codes": ["A501"],
+    "name": "iPhone First",
+    "color": "Preto",
+    "storage": "4GB"
+  },
+  {
+    "codes": ["A712"],
+    "name": "iPhone First",
+    "color": "Preto",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["B384"],
+    "name": "iPhone First",
+    "color": "Preto",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["B046", "B489", "B639", "B702", "C176", "B490", "B757"],
+    "name": "iPhone 3G",
+    "color": "Preto",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["B048", "B496", "B497", "B704", "B631"],
+    "name": "iPhone 3G",
+    "color": "Preto",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["B499", "B500", "B501", "B632", "B705"],
+    "name": "iPhone 3G",
+    "color": "Branco"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["C555", "C640", "C637"],
+    "name": "iPhone 3GS",
+    "color": "Preto",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["B715", "B719", "B735", "C131", "C135", "C139", "C143"],
+    "name": "iPhone 3GS",
+    "color": "Preto",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["B717", "B737", "C133", "C137", "C141", "C158"],
+    "name": "iPhone 3GS",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["B716", "B736", "C132", "C136", "C140", "C144"],
+    "name": "iPhone 3GS",
+    "color": "Branco"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["B718", "B738", "C134", "C138", "C160"],
+    "name": "iPhone 3GS",
+    "color": "Branco"
+,
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D126", "D127", "D128"],
+    "name": "iPhone 4",
+    "color": "Preto",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["C318", "C603", "C608"],
+    "name": "iPhone 4",
+    "color": "Preto",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["C319", "C605", "C610"],
+    "name": "iPhone 4",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D196", "D197", "D198"],
+    "name": "iPhone 4",
+    "color": "Branco"
+,
+    "storage": "8GB"
+  },
+  {
+    "codes": ["C604", "C536", "C607", "C609"],
+    "name": "iPhone 4",
+    "color": "Branco"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["C606", "C537", "C611"],
+    "name": "iPhone 4",
+    "color": "Branco"
+,
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D128", "E798"],
+    "name": "iPhone 4 (N90b)",
+    "color": "Preto",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["E799"],
+    "name": "iPhone 4 (N90b)",
+    "color": "Branco"
+,
+    "storage": "8GB"
+  },
+  {
+    "codes": ["D146", "D439", "D873", "E639"],
+    "name": "iPhone 4 (CDMA)",
+    "color": "Preto",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["C676"],
+    "name": "iPhone 4 (CDMA)",
+    "color": "Preto",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["C678"],
+    "name": "iPhone 4 (CDMA)",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D200", "D440", "D874"],
+    "name": "iPhone 4 (CDMA)",
+    "color": "Branco"
+,
+    "storage": "8GB"
+  },
+  {
+    "codes": ["C677"],
+    "name": "iPhone 4 (CDMA)",
+    "color": "Branco"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["C679"],
+    "name": "iPhone 4 (CDMA)",
+    "color": "Branco"
+,
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E259", "F257", "F261", "F263", "F265", "F269", "F259", "F267"],
+    "name": "iPhone 4S",
+    "color": "Preto",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["C918", "C922", "D234", "D235", "D276", "D377", "D865", "E804", "D236", "D251", "D254"],
+    "name": "iPhone 4S",
+    "color": "Preto",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["C919", "C923", "D241", "D242", "D278", "D379", "D261", "D243"],
+    "name": "iPhone 4S",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D257", "D258", "D269", "D280", "D381", "D259", "D270"],
+    "name": "iPhone 4S",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["F258", "F260", "F262", "F264", "F266", "F270", "F268"],
+    "name": "iPhone 4S",
+    "color": "Branco"
+,
+    "storage": "8GB"
+  },
+  {
+    "codes": ["C920", "C924", "D237", "D239", "D277", "D378", "D866", "E805", "D240", "D920"],
+    "name": "iPhone 4S",
+    "color": "Branco"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["C921", "D244", "D279", "D380", "D246", "D245", "C925"],
+    "name": "iPhone 4S",
+    "color": "Branco"
+,
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D260", "D271", "D272", "D281", "D382", "D262"],
+    "name": "iPhone 4S",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["D293", "D634", "D638", "E486"],
+    "name": "iPhone 5",
+    "color": "Black \u0026 Slate",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["D295", "D636", "E488", "D640"],
+    "name": "iPhone 5",
+    "color": "Black \u0026 Slate",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D642", "D644", "E490", "D646"],
+    "name": "iPhone 5",
+    "color": "Black \u0026 Slate",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["D294", "D635", "E487", "D639"],
+    "name": "iPhone 5",
+    "color": "White \u0026 Silver",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["D296", "D637", "E489", "D641"],
+    "name": "iPhone 5",
+    "color": "White \u0026 Silver",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D643", "D645", "E491", "D647"],
+    "name": "iPhone 5",
+    "color": "White \u0026 Silver",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["D297", "D654", "D656", "E039", "D097", "D669", "D671"],
+    "name": "iPhone 5 (GSM+CDMA)",
+    "color": "Black \u0026 Slate",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["D299", "D658", "D660", "E041"],
+    "name": "iPhone 5 (GSM+CDMA)",
+    "color": "Black \u0026 Slate",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D662", "D664", "D667", "E043"],
+    "name": "iPhone 5 (GSM+CDMA)",
+    "color": "Black \u0026 Slate",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["D298", "D655", "D657", "E040", "D105", "D672"],
+    "name": "iPhone 5 (GSM+CDMA)",
+    "color": "White \u0026 Silver",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["D300", "D659", "D661", "E042", "D144"],
+    "name": "iPhone 5 (GSM+CDMA)",
+    "color": "White \u0026 Silver",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["D663", "D665", "D668", "E044"],
+    "name": "iPhone 5 (GSM+CDMA)",
+    "color": "White \u0026 Silver",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["E507", "E531", "E543"],
+    "name": "iPhone 5c",
+    "color": "Blue",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["F136", "F151"],
+    "name": "iPhone 5c",
+    "color": "Blue",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E508", "E496", "E544", "E568"],
+    "name": "iPhone 5c",
+    "color": "Verde"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["F137", "F152"],
+    "name": "iPhone 5c",
+    "color": "Verde"
+,
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E509", "E533", "E545"],
+    "name": "iPhone 5c",
+    "color": "Rosa",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["F138", "F133", "F153"],
+    "name": "iPhone 5c",
+    "color": "Rosa",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E505", "E493", "E541", "E565"],
+    "name": "iPhone 5c",
+    "color": "Branco"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["F134", "F149"],
+    "name": "iPhone 5c",
+    "color": "Branco"
+,
+    "storage": "32GB"
+  },
+  {
+    "codes": ["GF12"],
+    "name": "iPhone 5c",
+    "color": "Amarelo"
+,
+    "storage": "8GB"
+  },
+  {
+    "codes": ["E506"],
+    "name": "iPhone 5c",
+    "color": "Amarelo"
+,
+    "storage": "16GB"
+  },
+  {
+    "codes": ["F135"],
+    "name": "iPhone 5c",
+    "color": "Amarelo"
+,
+    "storage": "32GB"
+  },
+  {
+    "codes": ["G0T2", "G1U2", "G902"],
+    "name": "iPhone 5c (A1507)",
+    "color": "Blue",
+    "storage": "8GB"
+  },
+  {
+    "codes": ["E555", "E501", "E561", "F323", "F333"],
+    "name": "iPhone 5c (A1507)",
+    "color": "Blue",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["F156"],
+    "name": "iPhone 5c (A1507)",
+    "color": "Blue",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E298", "E307", "E325", "E343", "E334"],
+    "name": "iPhone 5s",
+    "color": "Dourado",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["E301", "E310", "E328", "E346", "E337"],
+    "name": "iPhone 5s",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E304", "E313", "E331", "E349", "E340"],
+    "name": "iPhone 5s",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["E297", "E306", "E324", "E333", "E342"],
+    "name": "iPhone 5s",
+    "color": "Prata",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["E300", "E309", "E327", "E345", "E336"],
+    "name": "iPhone 5s",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E303", "E312", "E348", "E339", "E330", "F359"],
+    "name": "iPhone 5s",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["E296", "E305", "E323", "E341", "E332", "F797"],
+    "name": "iPhone 5s",
+    "color": "Space Gray",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["E299", "E308", "E326", "E344", "E335", "F384"],
+    "name": "iPhone 5s",
+    "color": "Space Gray",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E302", "E311", "E329", "E347", "E338"],
+    "name": "iPhone 5s",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["E434", "F354", "F398", "F363"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Dourado",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["E437", "F357"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E440", "F360"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["E433", "F353", "F362"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Prata",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["E436", "F356"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E439"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["E432", "F352"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Space Gray",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["E435", "F355"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Space Gray",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["E438", "F358"],
+    "name": "iPhone 5s (A1457)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G3D2", "G492", "G4Q2", "G562", "G5Y2", "G6C2"],
+    "name": "iPhone 6",
+    "color": "Dourado",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["Q3E2"],
+    "name": "iPhone 6",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["G3L2", "G4J2", "G502", "G652", "G6J2", "G842"],
+    "name": "iPhone 6",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G3G2", "G4E2", "G4V2", "G622"],
+    "name": "iPhone 6",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["G3C2", "G4P2", "G482", "G5X2", "G552", "G6A2", "G7W2"],
+    "name": "iPhone 6",
+    "color": "Prata",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["G3K2", "G4H2", "G4X2", "G5C2", "G6H2", "G642", "G822"],
+    "name": "iPhone 6",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G3F2", "G4C2", "G612"],
+    "name": "iPhone 6",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["G3A2", "G4N2", "G472", "G5H2", "G5W2", "G542", "G692"],
+    "name": "iPhone 6",
+    "color": "Space Gray",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["Q3D2", "Q462"],
+    "name": "iPhone 6",
+    "color": "Space Gray",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["G3H2", "G4F2", "G4W2", "G5A2", "G6G2", "G632"],
+    "name": "iPhone 6",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G3E2", "G4A2", "G4R2", "G602"],
+    "name": "iPhone 6",
+    "color": "Space Gray",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GAA2", "GAN2", "GC12", "GCM2", "GCX2"],
+    "name": "iPhone 6 Plus",
+    "color": "Dourado",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["GAK2", "GAW2", "GC72", "GCU2"],
+    "name": "iPhone 6 Plus",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GAF2", "GAR2", "GC42", "GCQ2"],
+    "name": "iPhone 6 Plus",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GA92", "GC92", "GAM2", "GC02", "GCL2"],
+    "name": "iPhone 6 Plus",
+    "color": "Prata",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["GAJ2", "GAV2", "GC62", "GCT2"],
+    "name": "iPhone 6 Plus",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GAE2", "GAQ2", "GC32", "GCP2"],
+    "name": "iPhone 6 Plus",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GA82", "GAL2", "GAX2", "GCK2"],
+    "name": "iPhone 6 Plus",
+    "color": "Space Gray",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["GAH2", "GAU2", "GC52", "GCR2"],
+    "name": "iPhone 6 Plus",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GAC2", "GAP2", "GC22", "GCN2"],
+    "name": "iPhone 6 Plus",
+    "color": "Space Gray",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KQL2", "KQ72", "KR12", "KRE2", "KRW2", "KT92", "L7E2"],
+    "name": "iPhone 6s",
+    "color": "Dourado",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["N0P2", "N172", "N1K2", "N1U2", "N1Y2", "N112"],
+    "name": "iPhone 6s",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["KQC2", "KQQ2", "KR52", "KRJ2", "KT12", "KTE2", "L7J2"],
+    "name": "iPhone 6s",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KQG2", "KQV2", "KR92", "KRP2", "KT52", "KTJ2", "L7N2"],
+    "name": "iPhone 6s",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KQM2", "KQ82", "KRF2", "KRX2", "KR22", "KTA2", "L7F2"],
+    "name": "iPhone 6s",
+    "color": "Rose Gold",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["N0V2", "N192", "N1L2", "N1V2", "N202", "N122"],
+    "name": "iPhone 6s",
+    "color": "Rose Gold",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["KQD2", "KQR2", "KR62", "KRK2", "KT22", "KTF2", "L7K2"],
+    "name": "iPhone 6s",
+    "color": "Rose Gold",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KQH2", "KQW2", "KRA2", "KRQ2", "KT62", "KTK2", "L7P2"],
+    "name": "iPhone 6s",
+    "color": "Rose Gold",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KQ62", "KQK2", "KQY2", "KRD2", "KRT2", "KT82", "L7D2"],
+    "name": "iPhone 6s",
+    "color": "Prata",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["N0N2", "N162", "N1G2", "N1Q2", "N1X2", "N0X2"],
+    "name": "iPhone 6s",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["KQA2", "KQP2", "KR42", "KRH2", "KT02", "KTD2", "L7H2"],
+    "name": "iPhone 6s",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KQF2", "KQU2", "KR82", "KRM2", "KT42", "KTH2", "L7M2"],
+    "name": "iPhone 6s",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KQ52", "KQJ2", "KQX2", "KRC2", "KRR2", "KT72", "L7C2"],
+    "name": "iPhone 6s",
+    "color": "Space Gray",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["N0M2", "N132", "N1E2", "N1M2", "N1W2", "N0W2"],
+    "name": "iPhone 6s",
+    "color": "Space Gray",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["KQN2", "KQ92", "KR32", "KRG2", "KRY2", "KTC2", "L7G2"],
+    "name": "iPhone 6s",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KQE2", "KQT2", "KR72", "KRL2", "KT32", "KTG2", "L7L2"],
+    "name": "iPhone 6s",
+    "color": "Space Gray",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KTN2", "KU32", "KUN2", "KV62", "KVQ2", "KW72", "L6D2"],
+    "name": "iPhone 6s Plus",
+    "color": "Dourado",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["N2X2"],
+    "name": "iPhone 6s Plus",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["KTT2", "KU82", "KUV2", "KVD2", "KVX2", "KWD2", "L6H2"],
+    "name": "iPhone 6s Plus",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KTX2", "KUF2", "KV12", "KVH2", "KW22", "KWH2", "L6M2"],
+    "name": "iPhone 6s Plus",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KU52", "L6E2", "KTP2", "KUP2", "KV72", "KVU2", "KW82"],
+    "name": "iPhone 6s Plus",
+    "color": "Rose Gold",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["N2Y2"],
+    "name": "iPhone 6s Plus",
+    "color": "Rose Gold",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["KU92", "L6J2", "KTU2", "KUW2", "KVE2", "KVY2", "KWE2"],
+    "name": "iPhone 6s Plus",
+    "color": "Rose Gold",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KUG2", "KV22", "L6N2", "KVJ2", "KTY2"],
+    "name": "iPhone 6s Plus",
+    "color": "Rose Gold",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KTM2", "KU22", "KUJ2", "KV52", "KVP2", "KW62", "L6C2"],
+    "name": "iPhone 6s Plus",
+    "color": "Prata",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["KTR2", "KU72", "KUU2", "KV92", "KVW2", "KWC2", "L6G2"],
+    "name": "iPhone 6s Plus",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KTW2", "KUE2", "KUY2", "KVG2", "KW12", "KWG2", "L6L2"],
+    "name": "iPhone 6s Plus",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["KU12", "L6A2", "KV32", "KTL2", "KUH2", "KVN2", "KW52"],
+    "name": "iPhone 6s Plus",
+    "color": "Space Gray",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["N2V2"],
+    "name": "iPhone 6s Plus",
+    "color": "Space Gray",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["KU62", "L6F2", "KTQ2", "KUQ2", "KV82", "KVV2", "KW92", "L642"],
+    "name": "iPhone 6s Plus",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["KUD2", "L6K2", "KTV2", "KUX2", "KVF2", "KW02", "KWF2"],
+    "name": "iPhone 6s Plus",
+    "color": "Space Gray",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LXH2", "LXW2", "LY12", "LY52", "LY92", "LXM2"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Dourado",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["P8D2", "P8R2", "P8H2", "P8M2", "P7V2", "P842"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["LXK2", "LXY2", "LY32", "LY72", "LYC2", "LXP2"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["P952", "P9J2", "P992", "P9E2", "P802", "P882"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LXJ2", "LXX2", "LY22", "LY62", "LYA2", "LXN2"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Rose Gold",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["P8E2", "P8T2", "P8J2", "P8N2", "P7W2", "P852"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Rose Gold",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["LXL2", "LY02", "LY42", "LY82", "LYD2", "LXQ2"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Rose Gold",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["P962", "P9K2", "P9A2", "P9F2", "P812", "P892"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Rose Gold",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LLM2", "LLV2", "LLX2", "LM02", "LM32", "LLP2"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Prata",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["P8C2", "P8Q2", "P8G2", "P8L2", "P7U2", "P832"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["LM52", "LMC2", "LME2", "LMG2", "LMJ2", "LM72"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["P942", "P9H2", "P982", "P9D2", "P7Y2", "P872"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LLL2", "LLU2", "LLW2", "LLY2", "LM22", "LLN2"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Space Gray",
+    "storage": "16GB"
+  },
+  {
+    "codes": ["P8A2", "P8P2", "P8F2", "P8K2", "P7T2", "P822"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Space Gray",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["LM42", "LM62", "LMA2", "LMD2", "LMF2", "LMH2"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["P932", "P9G2", "P972", "P9C2", "P7X2", "P862"],
+    "name": "iPhone SE (1Âª geraÃ§Ã£o)",
+    "color": "Space Gray",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N8G2", "NAC2", "NAY2", "NCE2", "NGQ2"],
+    "name": "iPhone 7",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N8L2", "NAJ2", "NC32", "NCK2", "NGX2"],
+    "name": "iPhone 7",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N8R2", "NAQ2", "NC82", "NCQ2"],
+    "name": "iPhone 7",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N8J2", "NAE2", "NC12", "NCG2"],
+    "name": "iPhone 7",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N8N2", "NAL2", "NC52", "NCM2", "NH02"],
+    "name": "iPhone 7",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N8U2", "NAV2", "NCA2", "NCT2", "N992"],
+    "name": "iPhone 7",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N8Q2", "NAP2", "NC72", "NCP2"],
+    "name": "iPhone 7",
+    "color": "Jet Black",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N8W2", "NAX2", "NCD2", "NCV2"],
+    "name": "iPhone 7",
+    "color": "Jet Black",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PRV2", "PRT2", "PRH2", "PRL2"],
+    "name": "iPhone 7",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PRW2", "PRU2", "PRJ2", "PRM2"],
+    "name": "iPhone 7",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N8K2", "NAF2", "NC22", "NCJ2"],
+    "name": "iPhone 7",
+    "color": "Rose Gold",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N8P2", "NAM2", "NC62", "NH12", "NCN2"],
+    "name": "iPhone 7",
+    "color": "Rose Gold",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N8V2", "NAW2", "NCC2", "NCU2", "N9A2"],
+    "name": "iPhone 7",
+    "color": "Rose Gold",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N8H2", "NAD2", "NC02", "NCF2", "N8Y2"],
+    "name": "iPhone 7",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N8M2", "NAK2", "NC42", "NCL2", "N932"],
+    "name": "iPhone 7",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N8T2", "NAU2", "NC92", "NCR2", "N982"],
+    "name": "iPhone 7",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N9D2", "N9U2", "N8X2"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N9H2", "N9Y2", "N922"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N9N2", "NA62", "N972"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N9F2", "N9W2", "N902"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N9K2", "NA32", "N942"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N9Q2", "NA82"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["QTR2", "QTX2"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Jet Black",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N9M2", "NA52", "N962"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Jet Black",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N9T2", "NAA2", "N9C2"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Jet Black",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PRN2", "PRQ2"],
+    "name": "iPhone 7 (A1778)",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PRP2", "PRR2"],
+    "name": "iPhone 7 (A1778)",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N9G2", "N9X2", "N912"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Rose Gold",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N9L2", "NA42", "N952"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Rose Gold",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N9R2", "NA92"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Rose Gold",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N9E2", "N9V2"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N9J2", "NA02"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N9P2", "NA72"],
+    "name": "iPhone 7 (A1778)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQH2", "NR12", "NR52", "NR92", "NRJ2"],
+    "name": "iPhone 7 Plus",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N482", "N5T2", "N642", "N6F2", "NFP2"],
+    "name": "iPhone 7 Plus",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N4E2", "N5Y2", "N692", "N6L2", "NFV2"],
+    "name": "iPhone 7 Plus",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQK2", "NR32", "NR72", "NRC2", "NRL2"],
+    "name": "iPhone 7 Plus",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N4A2", "N5V2", "N662", "N6H2", "NFR2"],
+    "name": "iPhone 7 Plus",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N4J2", "N612", "N6C2", "N6N2"],
+    "name": "iPhone 7 Plus",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["QU22"],
+    "name": "iPhone 7 Plus",
+    "color": "Jet Black",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N4D2", "N5X2", "N682", "N6K2"],
+    "name": "iPhone 7 Plus",
+    "color": "Jet Black",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N4L2", "N632", "N6E2", "N6Q2"],
+    "name": "iPhone 7 Plus",
+    "color": "Jet Black",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PR12", "PR02", "PQV2", "PQW2"],
+    "name": "iPhone 7 Plus",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PRA2", "PR92", "PR52", "PR62"],
+    "name": "iPhone 7 Plus",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQL2", "NR42", "NR82", "NRD2", "NRM2"],
+    "name": "iPhone 7 Plus",
+    "color": "Rose Gold",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N4C2", "N5W2", "N672", "N6J2", "NFT2"],
+    "name": "iPhone 7 Plus",
+    "color": "Rose Gold",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N4K2", "N622", "N6D2", "N6P2", "NFY2"],
+    "name": "iPhone 7 Plus",
+    "color": "Rose Gold",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQJ2", "NR22", "NR62", "NRA2", "NRK2"],
+    "name": "iPhone 7 Plus",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N492", "N5U2", "N652", "N6G2", "NFQ2"],
+    "name": "iPhone 7 Plus",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N4F2", "N602", "N6A2", "N6M2"],
+    "name": "iPhone 7 Plus",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQR2", "NQW2", "NQM2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Preto",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N522", "N5G2", "N4M2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N592", "N5M2", "N4W2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQU2", "NQY2", "NQP2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Dourado",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N552", "N5J2", "N4Q2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N5D2", "N5P2", "N4Y2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["N572", "N5L2", "N4V2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Jet Black",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N5F2", "N5R2", "N512"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Jet Black",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQV2", "NR02", "NQQ2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Rose Gold",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N562", "N5K2", "N4U2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Rose Gold",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N5E2", "N5Q2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Rose Gold",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NQT2", "NQX2", "NQN2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Prata",
+    "storage": "32GB"
+  },
+  {
+    "codes": ["N532", "N5H2", "N4P2"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["N5C2", "N5N2", "N4X2", "N502"],
+    "name": "iPhone 7 Plus (A1784)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q6M2", "Q742", "Q772", "Q7A2"],
+    "name": "iPhone 8",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q7H2", "Q802", "Q832", "Q862"],
+    "name": "iPhone 8",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q6L2", "Q732", "Q762", "Q792"],
+    "name": "iPhone 8",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q7G2", "Q7Y2", "Q822", "Q852"],
+    "name": "iPhone 8",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q6K2", "Q722", "Q752", "Q782"],
+    "name": "iPhone 8",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["X132"],
+    "name": "iPhone 8",
+    "color": "Space Gray",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q7F2", "Q7X2", "Q812", "Q842"],
+    "name": "iPhone 8",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RRK2", "RRR2", "RRT2"],
+    "name": "iPhone 8",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RRL2", "RRW2", "RRX2"],
+    "name": "iPhone 8",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q6J2", "Q6X2", "Q712"],
+    "name": "iPhone 8 (A1905)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q7E2", "Q7T2", "Q7W2"],
+    "name": "iPhone 8 (A1905)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q6H2", "Q6W2", "Q702"],
+    "name": "iPhone 8 (A1905)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q7D2", "Q7R2", "Q7V2"],
+    "name": "iPhone 8 (A1905)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q6G2", "Q6V2", "Q6Y2"],
+    "name": "iPhone 8 (A1905)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q7C2", "Q7Q2", "Q7U2"],
+    "name": "iPhone 8 (A1905)",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RRM2", "RRP2", "RRQ2"],
+    "name": "iPhone 8 (A1905)",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RRN2", "RRU2", "RRV2"],
+    "name": "iPhone 8 (A1905)",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8F2", "Q9F2", "Q982", "Q9M2"],
+    "name": "iPhone 8 Plus",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q8J2", "Q9C2", "Q9J2", "Q9Q2"],
+    "name": "iPhone 8 Plus",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8E2", "Q9E2", "Q972", "Q9L2"],
+    "name": "iPhone 8 Plus",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q8H2", "Q9A2", "Q9H2", "Q9P2"],
+    "name": "iPhone 8 Plus",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8D2", "Q9D2", "Q962", "Q9K2"],
+    "name": "iPhone 8 Plus",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q8G2", "Q9G2", "Q992", "Q9N2"],
+    "name": "iPhone 8 Plus",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RTG2", "RTJ2", "RT72"],
+    "name": "iPhone 8 Plus",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RTH2", "RTK2", "RT82"],
+    "name": "iPhone 8 Plus",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8N2", "Q8V2", "Q922"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q8R2", "Q8Y2", "Q952"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8M2", "Q8U2", "Q912"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q8Q2", "Q8X2", "Q942"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8L2", "Q8T2", "Q902"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["Q8P2", "Q8W2", "Q932"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RTC2", "RTE2", "RT92"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RTA2", "RTD2", "RTF2"],
+    "name": "iPhone 8 Plus (A1897)",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["QCT2", "QCL2", "QAY2", "QA62"],
+    "name": "iPhone X",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["QCW2", "QCP2", "QC22", "QA92"],
+    "name": "iPhone X",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["QCR2", "QCK2", "QAX2", "QA52"],
+    "name": "iPhone X",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["QCV2", "QCN2", "QC12", "QA82"],
+    "name": "iPhone X",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["QAK2", "QAR2", "QAD2"],
+    "name": "iPhone X (A1901)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["QAN2", "QAV2", "QAG2"],
+    "name": "iPhone X (A1901)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["QAJ2", "QAQ2", "QAC2"],
+    "name": "iPhone X (A1901)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["QAM2", "QAU2", "QAF2"],
+    "name": "iPhone X (A1901)",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T3K2", "T2E2", "T302", "T472"],
+    "name": "iPhone XR",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T3T2", "T2L2", "T362", "T4G2"],
+    "name": "iPhone XR",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["T402", "T2T2", "T3D2", "T4R2"],
+    "name": "iPhone XR",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T3R2", "T2K2", "T352", "T4F2"],
+    "name": "iPhone XR",
+    "color": "Blue",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T3Y2", "T2R2", "T3C2", "T4Q2"],
+    "name": "iPhone XR",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["T462", "T2Y2", "T3J2", "T4Y2"],
+    "name": "iPhone XR",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T3Q2", "T2J2", "T342", "T4D2"],
+    "name": "iPhone XR",
+    "color": "Coral",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T3X2", "T2Q2", "T3A2", "T4N2"],
+    "name": "iPhone XR",
+    "color": "Coral",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["T452", "T2X2", "T3H2", "T4X2"],
+    "name": "iPhone XR",
+    "color": "Coral",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T3M2", "T2G2", "T322", "T492"],
+    "name": "iPhone XR",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T3V2", "T2N2", "T382", "T4J2"],
+    "name": "iPhone XR",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["T422", "T2V2", "T3F2", "T4V2"],
+    "name": "iPhone XR",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T3L2", "T2F2", "T312", "T482"],
+    "name": "iPhone XR",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T3U2", "T2M2", "T372", "T4H2"],
+    "name": "iPhone XR",
+    "color": "Branco"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["T412", "T2U2", "T3E2", "T4U2"],
+    "name": "iPhone XR",
+    "color": "Branco"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T3N2", "T2H2", "T332", "T4A2"],
+    "name": "iPhone XR",
+    "color": "Amarelo"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T3W2", "T2P2", "T392", "T4L2"],
+    "name": "iPhone XR",
+    "color": "Amarelo"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["T442", "T2W2", "T3G2", "T4W2"],
+    "name": "iPhone XR",
+    "color": "Amarelo"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RY42"],
+    "name": "iPhone XR (A2105)",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RY92"],
+    "name": "iPhone XR (A2105)",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["RYJ2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RYA2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Blue",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RYH2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["RYQ2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RY62"],
+    "name": "iPhone XR (A2105)",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RYE2"],
+    "name": "iPhone XR (A2105)",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["RYM2"],
+    "name": "iPhone XR (A2105)",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RY52"],
+    "name": "iPhone XR (A2105)",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RYD2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Branco"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["RYL2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Branco"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["RY72"],
+    "name": "iPhone XR (A2105)",
+    "color": "Amarelo"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["RYF2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Amarelo"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["RYN2"],
+    "name": "iPhone XR (A2105)",
+    "color": "Amarelo"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T8W2", "TA22", "T8L2", "TAJ2", "T962"],
+    "name": "iPhone XS",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T902", "TA92", "T8P2", "TAQ2", "T992"],
+    "name": "iPhone XS",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T932", "TAF2", "T8T2", "TAV2", "T9D2"],
+    "name": "iPhone XS",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T8V2", "TA12", "T8K2", "TAH2", "T952"],
+    "name": "iPhone XS",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T8Y2", "TA82", "T8N2", "TAN2", "T982"],
+    "name": "iPhone XS",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T922", "TAD2", "T8R2", "TAU2", "T9C2"],
+    "name": "iPhone XS",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T8U2", "TA02", "T8J2", "TAG2", "T942"],
+    "name": "iPhone XS",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T8X2", "TA72", "T8M2", "TAL2", "T972"],
+    "name": "iPhone XS",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T912", "TAA2", "T8Q2", "TAR2", "T9A2"],
+    "name": "iPhone XS",
+    "color": "Space Gray",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T9G2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T9K2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T9N2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T9F2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T9J2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T9M2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T9E2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T9H2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T9L2"],
+    "name": "iPhone XS (A2097)",
+    "color": "Space Gray",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T5X2", "T672", "T5M2", "T6H2", "T5C2"],
+    "name": "iPhone XS Max",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T612", "T6A2", "T5Q2", "T6L2", "T5F2"],
+    "name": "iPhone XS Max",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T642", "T6E2", "T5U2", "T6P2", "T5J2"],
+    "name": "iPhone XS Max",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T5W2", "T662", "T5L2", "T6G2", "T5A2"],
+    "name": "iPhone XS Max",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T602", "T692", "T5P2", "T6K2", "T5E2"],
+    "name": "iPhone XS Max",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T632", "T6D2", "T5T2", "T6N2", "T5H2"],
+    "name": "iPhone XS Max",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T5V2", "T652", "T5K2", "T6F2", "T592"],
+    "name": "iPhone XS Max",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T5Y2", "T682", "T5N2", "T6J2", "T5D2"],
+    "name": "iPhone XS Max",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T622", "T6C2", "T5R2", "T6M2", "T5G2"],
+    "name": "iPhone XS Max",
+    "color": "Space Gray",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T522"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T552"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T582"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T512"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T542"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T572"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["T502"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["T532"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["T562"],
+    "name": "iPhone XS Max (A2101)",
+    "color": "Space Gray",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WHT2", "WK02", "WJE2", "WKM2", "WL72"],
+    "name": "iPhone 11",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WJ02", "WK72", "WJL2", "WKU2", "WLE2"],
+    "name": "iPhone 11",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WJ62", "WKF2", "WJT2", "WL12", "WLL2"],
+    "name": "iPhone 11",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHY2", "WK62", "WJK2", "WKT2", "WLD2"],
+    "name": "iPhone 11",
+    "color": "Verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WJ52", "WKE2", "WJR2", "WL02", "WLK2"],
+    "name": "iPhone 11",
+    "color": "Verde"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WJD2", "WKL2", "WJY2", "WL62", "WLR2"],
+    "name": "iPhone 11",
+    "color": "Verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHV2", "WK22", "WJG2", "WKP2", "WL92"],
+    "name": "iPhone 11",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WJ22", "WK92", "WJN2", "WKW2", "WLG2"],
+    "name": "iPhone 11",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WJ92", "WKH2", "WJV2", "WL32", "WLN2"],
+    "name": "iPhone 11",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHX2", "WK52", "WJJ2", "WKR2", "WLC2"],
+    "name": "iPhone 11",
+    "color": "Purple",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WJ42", "WKD2", "WJQ2", "WKY2", "WLJ2"],
+    "name": "iPhone 11",
+    "color": "Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WJC2", "WKK2", "WJX2", "WL52", "WLQ2"],
+    "name": "iPhone 11",
+    "color": "Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHU2", "WK12", "WJF2", "WKN2", "WL82"],
+    "name": "iPhone 11",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WJ12", "WK82", "WJM2", "WKV2", "WLF2"],
+    "name": "iPhone 11",
+    "color": "Branco"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WJ72", "WKG2", "WJU2", "WL22", "WLM2"],
+    "name": "iPhone 11",
+    "color": "Branco"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHW2", "WK32", "WJH2", "WKQ2", "WLA2"],
+    "name": "iPhone 11",
+    "color": "Amarelo"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WJ32", "WKC2", "WJP2", "WKX2", "WLH2"],
+    "name": "iPhone 11",
+    "color": "Amarelo"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WJA2", "WKJ2", "WJW2", "WL42", "WLP2"],
+    "name": "iPhone 11",
+    "color": "Amarelo"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WLT2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WM02"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WM72"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WLY2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WM62"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Verde"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WMD2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WLV2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WM32"],
+    "name": "iPhone 11 (A2221)",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WM92"],
+    "name": "iPhone 11 (A2221)",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WLX2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Purple",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WM52"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WMC2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WLU2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WM22"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Branco"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WM82"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Branco"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WLW2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Amarelo"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WM42"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Amarelo"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["WMA2"],
+    "name": "iPhone 11 (A2221)",
+    "color": "Amarelo"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["W9E2", "WA82", "W9T2", "WAQ2", "WCK2"],
+    "name": "iPhone 11 Pro",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["W9J2", "WAE2", "W9X2", "WAV2", "WCP2"],
+    "name": "iPhone 11 Pro",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["W9N2", "WAJ2", "WA42", "WC02", "WCU2"],
+    "name": "iPhone 11 Pro",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["W9F2", "WA92", "W9U2", "WAR2", "WCL2"],
+    "name": "iPhone 11 Pro",
+    "color": "Meia-noite verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["W9K2", "WAF2", "W9Y2", "WAW2", "WCQ2"],
+    "name": "iPhone 11 Pro",
+    "color": "Meia-noite verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["W9P2", "WAL2", "WA52", "WC12", "WCV2"],
+    "name": "iPhone 11 Pro",
+    "color": "Meia-noite verde"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["W9D2", "WA72", "W9R2", "WAP2", "WCJ2"],
+    "name": "iPhone 11 Pro",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["W9H2", "WAD2", "W9W2", "WAU2", "WCN2"],
+    "name": "iPhone 11 Pro",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["W9M2", "WAH2", "WA32", "WAY2", "WCT2"],
+    "name": "iPhone 11 Pro",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["W9C2", "WA62", "W9Q2", "WAM2", "WCH2"],
+    "name": "iPhone 11 Pro",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["W9G2", "WAA2", "W9V2", "WAT2", "WCM2"],
+    "name": "iPhone 11 Pro",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["W9L2", "WAG2", "WA12", "WAX2", "WCR2"],
+    "name": "iPhone 11 Pro",
+    "color": "Space Gray",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WC52"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WC92"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WCF2"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WC62"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Meia-noite verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WCC2"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Meia-noite verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WCG2"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Meia-noite verde"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WC32"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WC82"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WCE2"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WC22"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WC72"],
+    "name": "iPhone 11 Pro (A2215)",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WFC2", "WG42", "WFQ2", "WGH2", "WH12"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WFG2", "WG82", "WFV2", "WGM2", "WH62"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WFL2", "WGD2", "WG02", "WGR2", "WHA2"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WFD2", "WG52", "WFR2", "WGJ2", "WH22"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Meia-noite verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WFH2", "WG92", "WFW2", "WGN2", "WH72"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Meia-noite verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WFM2", "WGE2", "WG12", "WGT2", "WHC2"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Meia-noite verde"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WFA2", "WG32", "WFP2", "WGG2", "WH02"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WFF2", "WG72", "WFU2", "WGL2", "WH52"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WFK2", "WGC2", "WFY2", "WGQ2", "WH92"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WF92", "WG22", "WFN2", "WGF2", "WGY2"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WFE2", "WG62", "WFT2", "WGK2", "WH42"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WFJ2", "WGA2", "WFX2", "WGP2", "WH82"],
+    "name": "iPhone 11 Pro Max",
+    "color": "Space Gray",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WHG2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Dourado",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WHL2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHQ2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WHH2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Meia-noite verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WHM2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Meia-noite verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHR2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Meia-noite verde"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WHF2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Prata",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WHK2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHP2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["WHD2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Space Gray",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["WHJ2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Space Gray",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["WHN2"],
+    "name": "iPhone 11 Pro Max (A2220)",
+    "color": "Space Gray",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["X9T2", "X9A2", "X9H2", "X9E2", "X9L2", "X9P2", "XAN2", "HGQ3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["XD12", "XCJ2", "XCQ2", "XCM2", "XCU2", "XCX2", "XD72", "HGU3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "Branco"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["XVU2", "XVC2", "XVJ2", "XVF2", "XVM2", "XVQ2", "XW12", "HGX3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "Branco"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["X9R2", "X992", "X9G2", "X9D2", "X9K2", "X9N2", "XAM2", "HGP3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["XD02", "XCH2", "XCP2", "XCL2", "XCT2", "XCW2", "XD62", "HGT3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["XVT2", "XVA2", "XVH2", "XVE2", "XVL2", "XVP2", "XW02", "HGW3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["X9U2", "X9C2", "X9J2", "X9F2", "X9M2", "X9Q2", "XAP2", "HGR3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["XD22", "XCK2", "XCR2", "XCN2", "XCV2", "XCY2", "XD82", "HGV3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["XVV2", "XVD2", "XVK2", "XVG2", "XVN2", "XVR2", "XW22", "HGY3"],
+    "name": "iPhone SE (2Âª geraÃ§Ã£o)",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["G803", "GDY3", "G613", "G7H3", "G713", "G6H3", "G8G3", "GA63"],
+    "name": "iPhone 12 mini",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G853", "GE43", "G8M3", "G663", "G7N3", "G763", "G6N3", "GDM3"],
+    "name": "iPhone 12 mini",
+    "color": "Branco"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["G8A3", "GEA3", "G6C3", "G7U3", "G7C3", "G6V3", "G8T3", "GDT3"],
+    "name": "iPhone 12 mini",
+    "color": "Branco"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["G7Y3", "GDX3", "G603", "G7G3", "G703", "G6G3", "G8F3", "GA03"],
+    "name": "iPhone 12 mini",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G843", "GE33", "G653", "G7M3", "G753", "G6M3", "G8L3", "GDJ3"],
+    "name": "iPhone 12 mini",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["G893C", "GE93", "G8R3", "G6A3", "G7T3", "G7A3", "G6U3", "GDR3"],
+    "name": "iPhone 12 mini",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["G813", "GE03", "G623", "G7J3", "G723", "G6J3", "G8H3", "GAE3"],
+    "name": "iPhone 12 mini",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G863", "GE53", "G8N3", "G673", "G7P3", "G6P3", "G773", "GDN3"],
+    "name": "iPhone 12 mini",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["G8C3", "GEC3", "G6D3", "G7V3", "G7D3", "G6W3", "G8U3", "GDU3"],
+    "name": "iPhone 12 mini",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["G833", "GE23", "G8K3", "G643", "G7L3", "G743", "G6L3", "GAV3"],
+    "name": "iPhone 12 mini",
+    "color": "Verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G883", "GE73", "G693", "G7R3", "G793", "G6T3", "G8Q3", "GDQ3"],
+    "name": "iPhone 12 mini",
+    "color": "Verde"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["G8E3", "GEE3", "G8W3", "G6F3", "G7X3", "G7F3", "G6Y3", "GDW3"],
+    "name": "iPhone 12 mini",
+    "color": "Verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["G823", "GE13", "G8J3", "G633", "G7K3", "G733", "G6K3", "GAP3"],
+    "name": "iPhone 12 mini",
+    "color": "Blue",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["G873", "GE63", "G683", "G7Q3", "G783", "G6Q3", "G8P3", "GDP3"],
+    "name": "iPhone 12 mini",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["G8D3", "GED3", "G6E3", "G7W3", "G7E3", "G6X3", "G8V3", "GDV3"],
+    "name": "iPhone 12 mini",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["JNL3", "JQ23", "JNY3", "JNT3", "JQ83", "JQF3", "JQ53", "JQC3"],
+    "name": "iPhone 12 mini",
+    "color": "Purple",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["JQ93", "JNN3", "JQ33", "JQ03", "JNW3", "JQG3", "JQ63", "JQD3"],
+    "name": "iPhone 12 mini",
+    "color": "Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["JNR3", "JQ43", "JQ13", "JNX3", "JQA3", "JQH3", "JQ73", "JQE3"],
+    "name": "iPhone 12 mini",
+    "color": "Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GGN3", "GJ63", "GEG3", "GG63", "GFM3", "GF53", "GH73", "GHP3"],
+    "name": "iPhone 12",
+    "color": "Branco"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GGV3", "GJC3", "GHD3", "GET3", "GGC3", "GFT3", "GFA3", "GHV3"],
+    "name": "iPhone 12",
+    "color": "Branco"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GH23", "GJH3", "GF03", "GGH3", "GG13", "GFG3", "GHJ3", "GJ13"],
+    "name": "iPhone 12",
+    "color": "Branco"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GGM3", "GJ53", "GEF3", "GG53", "GFL3", "GF43", "GH63", "GHN3"],
+    "name": "iPhone 12",
+    "color": "Preto",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GGU3", "GJA3", "GHC3", "GER3", "GGA3", "GFR3", "GF93", "GHU3"],
+    "name": "iPhone 12",
+    "color": "Preto",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GH13", "GJG3", "GHH3", "GEX3", "GGG3", "GG03", "GFF3", "GJ03"],
+    "name": "iPhone 12",
+    "color": "Preto",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GGP3", "GJ73", "GEH3", "GG73", "GFN3", "GF63", "GH83", "GHQ3"],
+    "name": "iPhone 12",
+    "color": "PRODUCT(RED)",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GGW3", "GJD3", "GHE3", "GEU3", "GGD3", "GFW3", "GFC3", "GHW3"],
+    "name": "iPhone 12",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GH33", "GJJ3", "GF13", "GGJ3", "GG23", "GFH3", "GHK3", "GJ23"],
+    "name": "iPhone 12",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GGT3", "GJ93", "GEQ3", "GG93", "GFQ3", "GF83", "GHA3", "GHT3"],
+    "name": "iPhone 12",
+    "color": "Verde"
+,
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GGY3", "GJF3", "GHG3", "GEW3", "GGF3", "GFY3", "GFE3", "GHY3"],
+    "name": "iPhone 12",
+    "color": "Verde"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GH53", "GJL3", "GHM3", "GF33", "GGL3", "GG43", "GFK3", "GJ43"],
+    "name": "iPhone 12",
+    "color": "Verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GGQ3", "GJ83", "GH93", "GEK3", "GG83", "GFP3", "GF73", "GHR3"],
+    "name": "iPhone 12",
+    "color": "Blue",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["GGX3", "GJE3", "GEV3", "GGE3", "GFX3", "GFD3", "GHF3", "GHX3"],
+    "name": "iPhone 12",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GH43", "GJK3", "GF23", "GGK3", "GG33", "GFJ3", "GHL3", "GJ33"],
+    "name": "iPhone 12",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["JMX3", "JN73", "JN43", "JN13", "JNE3", "JNM3", "JNA3", "JNH3"],
+    "name": "iPhone 12",
+    "color": "Purple",
+    "storage": "64GB"
+  },
+  {
+    "codes": ["JNF3", "JMY3", "JN83", "JN53", "JN23", "JNP3", "JNC3", "JNJ3"],
+    "name": "iPhone 12",
+    "color": "Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["JN03", "JN93", "JN63", "JN33", "JNG3", "JNQ3", "JND3", "JNK3"],
+    "name": "iPhone 12",
+    "color": "Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GLA3", "GML3", "GJN3", "GKW3", "GKH3", "GK23", "GLP3", "GM63"],
+    "name": "iPhone 12 Pro",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GLF3", "GMQ3", "GLU3", "GJT3", "GL23", "GKM3", "GK63", "GMA3"],
+    "name": "iPhone 12 Pro",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GLK3", "GMV3", "GJX3", "GL63", "GKR3", "GKC3", "GLY3", "GMG3"],
+    "name": "iPhone 12 Pro",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["GL93", "GMK3", "GJM3", "GKV3", "GKG3", "GK13", "GLN3", "GM53"],
+    "name": "iPhone 12 Pro",
+    "color": "Grafite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GLE3", "GMP3", "GLT3", "GJR3", "GKL3", "GK53", "GL03", "GM93"],
+    "name": "iPhone 12 Pro",
+    "color": "Grafite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GLJ3", "GMU3", "GLX3", "GJW3", "GL53", "GKQ3", "GKA3", "GMF3"],
+    "name": "iPhone 12 Pro",
+    "color": "Grafite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["GLC3", "GMM3", "GJP3", "GKX3", "GKJ3", "GK33", "GLQ3", "GM73"],
+    "name": "iPhone 12 Pro",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GLG3", "GMR3", "GJU3", "GL33", "GKN3", "GK73", "GLV3", "GMC3"],
+    "name": "iPhone 12 Pro",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GLL3", "GMW3", "GM23", "GJY3", "GL73", "GKT3", "GKE3", "GMH3"],
+    "name": "iPhone 12 Pro",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["GLD3", "GMN3", "GJQ3", "GKY3", "GKK3", "GK43", "GLR3", "GM83"],
+    "name": "iPhone 12 Pro",
+    "color": "Pacific Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GLH3", "GMT3", "GJV3", "GL43", "GKP3", "GK93", "GLW3", "GMD3"],
+    "name": "iPhone 12 Pro",
+    "color": "Pacific Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GLM3", "GMX3", "GK03", "GL83", "GKU3", "GKF3", "GM43", "GMJ3"],
+    "name": "iPhone 12 Pro",
+    "color": "Pacific Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["GC13", "GD83", "G8Y3", "GA93", "G9Q3", "G9C3", "GCG3", "GCV3"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GC53", "GDD3", "GCL3", "G933", "GAJ3", "G9V3", "G9G3", "GD03"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GCA3", "GDH3", "G973", "GAU3", "GA23", "G9L3", "GCQ3", "GD43"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["GC03", "GD73", "G8X3", "GA73", "G9P3", "G9A3", "GCF3", "GCU3"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Grafite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GC43", "GDC3", "GCK3", "G923", "GAH3", "G9U3", "G9F3", "GCY3"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Grafite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GC93", "GDG3", "GCP3", "G963", "GAR3", "G9Y3", "G9K3", "GD33"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Grafite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["GC23", "GD93", "G903", "GAA3", "G9R3", "G9D3", "GCH3", "GCW3"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GC63", "GDE3", "G943", "GAM3", "G9W3", "G9H3", "GCM3", "GD13"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GCC3", "GDK3", "GCR3", "G983", "GAW3", "GA33", "G9M3", "GD53"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["GC33", "GDA3", "GCJ3", "G913", "GAF3", "G9T3", "G9E3", "GCX3"],
+    "name": "iPhone 12 Pro Max",
+    "color": ["Pacific Blue", "Branco"],
+    "storage": "128GB"
+  },
+  {
+    "codes": ["GC73", "GDF3", "G953", "GAQ3", "G9X3", "G9J3", "GCN3", "GD23"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Pacific Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["GCE3", "GDL3", "G993", "GAX3", "GA43", "G9N3", "GCT3", "GD63"],
+    "name": "iPhone 12 Pro Max",
+    "color": "Pacific Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LK33", "LHQ3", "LDF3", "LJG3"],
+    "name": "iPhone 13 mini",
+    "color": "PRODUCT(RED)",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LK83", "LHW3", "LDL3", "LJM3"],
+    "name": "iPhone 13 mini",
+    "color": "PRODUCT(RED)",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKE3", "LJ23", "LDR3", "LJW3"],
+    "name": "iPhone 13 mini",
+    "color": "PRODUCT(RED)",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LK13", "LHN3", "LDD3", "LJE3"],
+    "name": "iPhone 13 mini",
+    "color": "Starlight",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LK63", "LHU3", "LDJ3", "LJK3"],
+    "name": "iPhone 13 mini",
+    "color": "Starlight",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKC3", "LJ03", "LDP3", "LJR3"],
+    "name": "iPhone 13 mini",
+    "color": "Starlight",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LK03", "LHM3", "LDC3", "LJC3"],
+    "name": "iPhone 13 mini",
+    "color": "Meia-noite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LK53", "LHT3", "LDH3", "LJJ3"],
+    "name": "iPhone 13 mini",
+    "color": "Meia-noite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKA3", "LHY3", "LDN3", "LJP3"],
+    "name": "iPhone 13 mini",
+    "color": "Meia-noite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LK43", "LHR3", "LDG3", "LJH3"],
+    "name": "iPhone 13 mini",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LK93", "LHX3", "LDM3", "LJN3"],
+    "name": "iPhone 13 mini",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKF3", "LJ33", "LDT3", "LJY3"],
+    "name": "iPhone 13 mini",
+    "color": "Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LK23", "LHP3", "LDE3", "LJF3"],
+    "name": "iPhone 13 mini",
+    "color": "Rosa",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LK73", "LHV3", "LDK3", "LJL3"],
+    "name": "iPhone 13 mini",
+    "color": "Rosa",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKD3", "LJ13", "LDQ3", "LJU3"],
+    "name": "iPhone 13 mini",
+    "color": "Rosa",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["NF83", "NF53", "NFF3", "NFC3"],
+    "name": "iPhone 13 mini",
+    "color": "Verde"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["NF93", "NF63", "NFG3", "NFD3"],
+    "name": "iPhone 13 mini",
+    "color": "Verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NFA3", "NF73", "NFH3", "NFE3"],
+    "name": "iPhone 13 mini",
+    "color": "Verde"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LML3", "LNC3", "LPF3", "LDU3", "LNW3"],
+    "name": "iPhone 13",
+    "color": "Meia-noite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LMU3", "LNH3", "LQ63", "LE03", "LP23"],
+    "name": "iPhone 13",
+    "color": "Meia-noite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LN23", "LNN3", "LQC3", "LE63", "LP83"],
+    "name": "iPhone 13",
+    "color": "Meia-noite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LMT3", "LNG3", "LPK3", "LDY3", "LP13"],
+    "name": "iPhone 13",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LN13", "LNM3", "LQA3", "LE43", "LP73"],
+    "name": "iPhone 13",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LN83", "LNT3", "LQG3", "LEC3", "LPD3"],
+    "name": "iPhone 13",
+    "color": "Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LMN3", "LNE3", "LPH3", "LDW3", "LNY3"],
+    "name": "iPhone 13",
+    "color": "Rosa",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LMY3", "LNK3", "LQ83", "LE23", "LP53"],
+    "name": "iPhone 13",
+    "color": "Rosa",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LN43", "LNQ3", "LQE3", "LE93", "LPA3"],
+    "name": "iPhone 13",
+    "color": "Rosa",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LMM3", "LND3", "LPG3", "LDV3", "LNX3"],
+    "name": "iPhone 13",
+    "color": "Starlight",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LMX3", "LNJ3", "LQ73", "LE13", "LP43"],
+    "name": "iPhone 13",
+    "color": "Starlight",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LN33", "LNP3", "LQD3", "LE73", "LP93"],
+    "name": "iPhone 13",
+    "color": "Starlight",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["NGD3"],
+    "name": "iPhone 13",
+    "color": "Verde"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["NGE3"],
+    "name": "iPhone 13",
+    "color": "Verde"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NGF3"],
+    "name": "iPhone 13",
+    "color": "Verde"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LMQ3", "LNF3", "LPJ3", "LDX3", "LP03"],
+    "name": "iPhone 13",
+    "color": "(PRODUCT)RED",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LN03", "LNL3", "LQ93", "LE33", "LP63"],
+    "name": "iPhone 13",
+    "color": "(PRODUCT)RED",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LN53", "LNR3", "LQF3", "LEA3", "LPC3"],
+    "name": "iPhone 13",
+    "color": "(PRODUCT)RED",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LTP3", "LUE3", "LV93", "LT53", "LW13"],
+    "name": "iPhone 13 Pro",
+    "color": "Grafite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LTW3", "LUN3", "LVE3", "LT93", "LW53"],
+    "name": "iPhone 13 Pro",
+    "color": "Grafite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LU13", "LUV3", "LVH3", "LTF3", "LW93"],
+    "name": "iPhone 13 Pro",
+    "color": "Grafite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LU93", "LV13", "LVV3", "LTK3", "LWE3"],
+    "name": "iPhone 13 Pro",
+    "color": "Grafite",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["LTQ3", "LUF3", "LVA3", "LT63", "LW23"],
+    "name": "iPhone 13 Pro",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LTX3", "LUP3", "LVF3", "LTC3", "LW63"],
+    "name": "iPhone 13 Pro",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LU33", "LUW3", "LVN3", "LTG3", "LWA3"],
+    "name": "iPhone 13 Pro",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LUA3", "LV33", "LVW3", "LTL3", "LWF3"],
+    "name": "iPhone 13 Pro",
+    "color": "Prata",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["LTR3", "LUH3", "LVC3", "LT73", "LW33"],
+    "name": "iPhone 13 Pro",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LTY3", "LUQ3", "LVK3", "LTH3", "LW73"],
+    "name": "iPhone 13 Pro",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LU43", "LUY3", "LVQ3", "LTH3", "LWC3"],
+    "name": "iPhone 13 Pro",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LUC3", "LV43", "LVY3", "LTM3", "LWG3"],
+    "name": "iPhone 13 Pro",
+    "color": "Dourado",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["LTT3", "LUK3", "LVD3", "LT83", "LW43"],
+    "name": "iPhone 13 Pro",
+    "color": "Sierra Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LU03", "LUU3", "LVP3", "LTE3", "LW83"],
+    "name": "iPhone 13 Pro",
+    "color": "Sierra Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LU73", "LV03", "LVU3", "LTJ3", "LWD3"],
+    "name": "iPhone 13 Pro",
+    "color": "Sierra Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LUD3", "LV73", "LW03", "LTN3", "LWH3"],
+    "name": "iPhone 13 Pro",
+    "color": "Sierra Blue",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["NDT3"],
+    "name": "iPhone 13 Pro",
+    "color": "Alpine Green",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["NDU3"],
+    "name": "iPhone 13 Pro",
+    "color": "Alpine Green",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NDV3"],
+    "name": "iPhone 13 Pro",
+    "color": "Alpine Green",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["NDW3"],
+    "name": "iPhone 13 Pro",
+    "color": "Alpine Green",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["LKL3", "LJ43", "LL63", "LH43", "LLP3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Grafite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LKR3", "LJ83", "LLA3", "LH83", "LMA3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Grafite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKW3", "LJQ3", "LLF3", "LHD3", "LMP3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Grafite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LL23", "LKG3", "LLK3", "LHH3", "LN63"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Grafite",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["LKM3", "LJ53", "LL73", "LH53", "LLQ3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LKT3", "LJ93", "LLC3", "LH93", "LMD3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKX3", "LJT3", "LLG3", "LHE3", "LMR3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LL33", "LKH3", "LLL3", "LHJ3", "LN73"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Prata",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["LKN3", "LJ63", "LL83", "LH63", "LLT3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LKU3", "LJA3", "LLD3", "LHA3", "LMG3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LKY3", "LJV3", "LLH3", "LHF3", "LMV3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LL43", "LKJ3", "LLM3", "LHK3", "LN93"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Dourado",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["LKP3", "LJ73", "LL93", "LH73", "LLU3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Sierra Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["LKV3", "LJD3", "LLE3", "LHC3", "LMJ3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Sierra Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["LL03", "LJX3", "LLJ3", "LHG3", "LMW3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Sierra Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["LL53", "LKK3", "LLN3", "LHL3", "LNA3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Sierra Blue",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["NCP3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Alpine Green",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["NCQ3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Alpine Green",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["NCR3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Alpine Green",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["NCT3"],
+    "name": "iPhone 13 Pro Max",
+    "color": "Alpine Green",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["PUA3", "PUD3", "PUF3", "PU93"],
+    "name": "iPhone 14",
+    "color": "Meia-noite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PVV3", "PVW3", "PVX3", "PVU3"],
+    "name": "iPhone 14",
+    "color": "Meia-noite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PWU3", "PWV3", "PWW3", "PWT3"],
+    "name": "iPhone 14",
+    "color": "Meia-noite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["PVH3", "PVJ3", "PVN3", "PVG3"],
+    "name": "iPhone 14",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PWM3", "PWN3", "PWP3", "PWL3"],
+    "name": "iPhone 14",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PXL3", "PXM3", "PXN3", "PXK3"],
+    "name": "iPhone 14",
+    "color": "Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["PUX3", "PUY3", "PV03", "PUW3"],
+    "name": "iPhone 14",
+    "color": "Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PW83", "PW93", "PWA3", "PW73"],
+    "name": "iPhone 14",
+    "color": "Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PX73", "PX83", "PX93", "PX63"],
+    "name": "iPhone 14",
+    "color": "Purple",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["PUN3", "PUQ3", "PUR3", "PUJ3"],
+    "name": "iPhone 14",
+    "color": "Starlight",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PW23", "PW33", "PW43", "PW13"],
+    "name": "iPhone 14",
+    "color": "Starlight",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PX13", "PX23", "PX33", "PX03"],
+    "name": "iPhone 14",
+    "color": "Starlight",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["R3J3", "R3Q3", "R3X3", "R3F3"],
+    "name": "iPhone 14",
+    "color": "Amarelo"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["R3K3", "R3R3", "R3Y3", "R3G3"],
+    "name": "iPhone 14",
+    "color": "Amarelo"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["R3P3", "R3T3", "R513", "R3H3"],
+    "name": "iPhone 14",
+    "color": "Amarelo"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["PV73", "PV93", "PVA3", "PV63"],
+    "name": "iPhone 14",
+    "color": "(PRODUCT)RED",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["PWF3", "PWG3", "PWH3", "PWE3"],
+    "name": "iPhone 14",
+    "color": "(PRODUCT)RED",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["PXE3", "PXF3", "PXG3", "PXD3"],
+    "name": "iPhone 14",
+    "color": "(PRODUCT)RED",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q3R3", "Q4A3", "Q4X3", "Q353"],
+    "name": "iPhone 14 Plus",
+    "color": "Meia-noite",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q3X3", "Q4J3", "Q533", "Q3C3"],
+    "name": "iPhone 14 Plus",
+    "color": "Meia-noite",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q433", "Q4R3", "Q593", "Q3H3"],
+    "name": "iPhone 14 Plus",
+    "color": "Meia-noite",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q3W3", "Q4H3", "Q523", "Q3A3"],
+    "name": "iPhone 14 Plus",
+    "color": "Blue",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q423", "Q4Q3", "Q583", "Q3G3"],
+    "name": "iPhone 14 Plus",
+    "color": "Blue",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q493", "Q4W3", "Q5G3", "Q3Q3"],
+    "name": "iPhone 14 Plus",
+    "color": "Blue",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q3U3", "Q4E3", "Q503", "Q373"],
+    "name": "iPhone 14 Plus",
+    "color": "Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q403", "Q4M3", "Q563", "Q3E3"],
+    "name": "iPhone 14 Plus",
+    "color": "Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q463", "Q4U3", "Q5E3", "Q3K3"],
+    "name": "iPhone 14 Plus",
+    "color": "Purple",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q3T3", "Q4D3", "Q4Y3", "Q363"],
+    "name": "iPhone 14 Plus",
+    "color": "Starlight",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q3Y3", "Q4L3", "Q553", "Q3D3"],
+    "name": "iPhone 14 Plus",
+    "color": "Starlight",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q443", "Q4T3", "Q5D3", "Q3J3"],
+    "name": "iPhone 14 Plus",
+    "color": "Starlight",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["R5N3", "R603", "R693", "R593"],
+    "name": "iPhone 14 Plus",
+    "color": "Amarelo"
+,
+    "storage": "128GB"
+  },
+  {
+    "codes": ["R5T3", "R633", "R6D3", "R5F3"],
+    "name": "iPhone 14 Plus",
+    "color": "Amarelo"
+,
+    "storage": "256GB"
+  },
+  {
+    "codes": ["R5W3", "R663", "R6G3", "R5J3"],
+    "name": "iPhone 14 Plus",
+    "color": "Amarelo"
+,
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q3V3", "Q4F3", "Q513", "Q393"],
+    "name": "iPhone 14 Plus",
+    "color": "(PRODUCT)RED",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q413", "Q4P3", "Q573", "Q3F3"],
+    "name": "iPhone 14 Plus",
+    "color": "(PRODUCT)RED",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q473", "Q4V3", "Q5F3", "Q3P3"],
+    "name": "iPhone 14 Plus",
+    "color": "(PRODUCT)RED",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q0E3", "Q0F3", "Q0G3", "Q0D3"],
+    "name": "iPhone 14 Pro",
+    "color": "Deep Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q1D3", "Q1E3", "Q1F3", "Q1C3"],
+    "name": "iPhone 14 Pro",
+    "color": "Deep Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q273", "Q283", "Q293", "Q263"],
+    "name": "iPhone 14 Pro",
+    "color": "Deep Purple",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q303", "Q313", "Q323", "Q2Y3"],
+    "name": "iPhone 14 Pro",
+    "color": "Deep Purple",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["Q063", "Q073", "Q083", "Q053"],
+    "name": "iPhone 14 Pro",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q163", "Q173", "Q183", "Q143"],
+    "name": "iPhone 14 Pro",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q213", "Q223", "Q233", "Q203"],
+    "name": "iPhone 14 Pro",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q2T3", "Q2U3", "Q2V3", "Q2R3"],
+    "name": "iPhone 14 Pro",
+    "color": "Dourado",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["Q003", "Q013", "Q023", "PXY3"],
+    "name": "iPhone 14 Pro",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q0X3", "Q0Y3", "Q103", "Q0W3"],
+    "name": "iPhone 14 Pro",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q1U3", "Q1V3", "Q1W3", "Q1R3"],
+    "name": "iPhone 14 Pro",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q2L3", "Q2M3", "Q2N3", "Q2K3"],
+    "name": "iPhone 14 Pro",
+    "color": "Prata",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["PXT3", "PXU3", "PXV3", "PXR3"],
+    "name": "iPhone 14 Pro",
+    "color": "Space Black",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q0N3", "Q0Q3", "Q0T3", "Q0M3"],
+    "name": "iPhone 14 Pro",
+    "color": "Space Black",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q1K3", "Q1L3", "Q1M3", "Q1J3"],
+    "name": "iPhone 14 Pro",
+    "color": "Space Black",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q2E3", "Q2F3", "Q2G3", "Q2D3"],
+    "name": "iPhone 14 Pro",
+    "color": "Space Black",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["Q8R3", "Q993", "Q9T3", "Q863"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Deep Purple",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q8W3", "Q9E3", "Q9X3", "Q8A3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Deep Purple",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q913", "Q9J3", "QAM3", "Q8G3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Deep Purple",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q953", "Q9N3", "QC53", "Q8M3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Deep Purple",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["Q8Q3", "Q983", "Q9R3", "Q853"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Dourado",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q8V3", "Q9D3", "Q9W3", "Q893"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Dourado",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q903", "Q9H3", "QAJ3", "Q8F3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Dourado",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q943", "Q9M3", "QC43", "Q8L3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Dourado",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["Q8P3", "Q973", "Q9Q3", "Q843"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Prata",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q8U3", "Q9C3", "Q9V3", "Q883"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Prata",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8Y3", "Q9G3", "QAH3", "Q8E3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Prata",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q933", "Q9L3", "QC33", "Q8J3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Prata",
+    "storage": "1TB"
+  },
+  {
+    "codes": ["Q8N3", "Q963", "Q9P3", "Q833"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Space Black",
+    "storage": "128GB"
+  },
+  {
+    "codes": ["Q8T3", "Q9A3", "Q9U3", "Q873"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Space Black",
+    "storage": "256GB"
+  },
+  {
+    "codes": ["Q8X3", "Q9F3", "QAF3", "Q8D3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Space Black",
+    "storage": "512GB"
+  },
+  {
+    "codes": ["Q923", "Q9K3", "QC23", "Q8H3"],
+    "name": "iPhone 14 Pro Max",
+    "color": "Space Black",
+    "storage": "1TB"
+  }
+]

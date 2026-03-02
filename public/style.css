@@ -1,0 +1,267 @@
+﻿@font-face {
+    font-family: "San Francisco";
+    src: url(fonts/SF-Pro-Text-Bold.otf) format("opentype"), url(fonts/SF-Pro-Text-Bold.woff) format("woff");
+    font-weight: 700;
+    font-display: swap;
+}
+@font-face {
+    font-family: "San Francisco";
+    src: url(fonts/SF-Pro-Text-Light.otf) format("opentype"), url(fonts/SF-Pro-Text-Light.woff) format("woff");
+    font-weight: 300;
+    font-display: swap;
+}
+
+h1, h2 { font-family: "San Francisco"; font-weight: 700; }
+p { font-family: "San Francisco"; font-weight: 300; }
+
+body {
+    margin: 0;
+    padding-bottom: 64px;
+    background-color: rgb(244, 244, 244);
+}
+.pageCenter {
+    min-height: calc(100vh - 130px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.topBar {
+    width: 100%;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(160deg, rgba(52, 58, 65, 0.95), rgba(87, 94, 104, 0.9));
+    box-shadow: 0 8px 22px rgba(0, 0, 0, 0.24);
+    box-sizing: border-box;
+}
+.topBarLogo {
+    width: 46px;
+    height: 46px;
+    object-fit: contain;
+    filter: invert(100%);
+}
+.themeToggleRow {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3px;
+    margin-top: 8px;
+}
+.main-header { text-align: center; }
+.main-header h1 { margin-bottom: 8px; }
+.main-header p { margin: 0 0 8px; }
+
+.main-section {
+    display: flex;
+    justify-content: center;
+    margin-top: 8px;
+    width: 100%;
+}
+.input-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    flex-wrap: wrap;
+}
+.modelInput {
+    font-family: "San Francisco", Arial;
+    font-weight: 300;
+    width: min(88vw, 360px);
+    height: 48px;
+    padding: 0 14px;
+    border-radius: 14px;
+    border: 1px solid rgba(255, 255, 255, 0.8);
+    background: linear-gradient(145deg, rgba(255, 255, 255, 0.88), rgba(240, 246, 246, 0.72));
+    box-shadow: 0 10px 26px rgba(37, 67, 67, 0.12);
+    font-size: 16px;
+    text-align: center;
+    outline: none;
+}
+.verifyBtn {
+    font-family: "San Francisco";
+    font-weight: 600;
+    min-width: 132px;
+    height: 52px;
+    padding: 0 20px;
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    border-radius: 16px;
+    background: linear-gradient(160deg, rgba(125, 233, 233, 0.92), rgba(115, 205, 205, 0.9));
+    color: #0d3838;
+    font-size: 17px;
+    cursor: pointer;
+    box-shadow: 0 14px 30px rgba(42, 125, 125, 0.22);
+}
+
+.modalContainer {
+    border-radius: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: min(90vw, 660px);
+    max-height: calc(100vh - 28px);
+    background: linear-gradient(150deg, rgba(255, 255, 255, 0.35), rgba(214, 242, 242, 0.2));
+    border: 1px solid rgba(255, 255, 255, 0.55);
+    box-sizing: border-box;
+    padding: 52px 20px 20px;
+    overflow-y: auto;
+    backdrop-filter: blur(18px) saturate(140%);
+    -webkit-backdrop-filter: blur(18px) saturate(140%);
+    box-shadow: 0 26px 58px rgba(22, 63, 63, 0.25), inset 0 1px 0 rgba(255, 255, 255, 0.65);
+    display: none;
+    z-index: 10;
+}
+.modalHeader { margin: 0 0 12px; text-align: center; }
+.closeBtn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    line-height: 1;
+    cursor: pointer;
+    border: 1px solid rgba(255, 255, 255, 0.7);
+    background: rgba(255, 255, 255, 0.45);
+    border-radius: 10px;
+    width: 34px;
+    height: 34px;
+    font-weight: 700;
+}
+#specsContainer {
+    border-radius: 14px;
+    padding: 12px;
+    margin-top: 16px;
+    background: rgba(236, 236, 236, 0.384);
+    border: 1px solid rgba(192, 192, 192, 0.712);
+    text-align: center;
+}
+.modelPhotosWrap { margin: 6px 0 2px; }
+.modelPhotosOutput {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+}
+.modelPhotoItem {
+    width: 86px;
+    height: 86px;
+    border-radius: 12px;
+    object-fit: cover;
+    border: 1px solid rgba(180, 190, 190, 0.7);
+    background: rgba(255, 255, 255, 0.55);
+}
+.modelPhotoEmpty { margin: 0; font-size: 13px; opacity: 0.85; }
+
+.resultColorSwatches {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 6px;
+}
+.colorSwatch {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid rgba(255, 255, 255, 0.9);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+.swatch-metal-silver { background: linear-gradient(135deg, #d7d7d7 0%, #f7f7f7 35%, #b9b9b9 100%); }
+.swatch-metal-gold { background: linear-gradient(135deg, #d4af37 0%, #f5e0a3 35%, #b8942d 100%); }
+.swatch-metal-graphite { background: linear-gradient(135deg, #555a62 0%, #7d828a 35%, #2f333a 100%); }
+.swatch-metal-titanium { background: linear-gradient(135deg, #8f8f87 0%, #d2cec4 40%, #6e6a63 100%); }
+.swatch-metal-orange { background: linear-gradient(135deg, #cb6d2b 0%, #f3b169 35%, #9f4e19 100%); }
+
+.themeToggleApple {
+    appearance: none;
+    width: 50px;
+    height: 30px;
+    background: linear-gradient(160deg, rgba(153, 153, 153, 0.92), rgba(187, 192, 192, 0.9));
+    border: 1px solid rgba(219, 219, 219, 0.75);
+    border-radius: 15px;
+    position: relative;
+}
+.themeToggleApple::before {
+    content: "";
+    position: absolute;
+    top: 2px;
+    left: 2px;
+    width: 24px;
+    height: 24px;
+    background: linear-gradient(160deg, rgba(245, 245, 245, 0.92), rgba(255, 255, 255, 0.72));
+    border-radius: 50%;
+    transition: transform 0.3s ease;
+}
+.themeToggleApple:checked::before { transform: translateX(20px); }
+.themeToggleApple:checked { background: linear-gradient(160deg, rgba(28, 196, 5, 0.92), rgba(0, 102, 5, 0.72)); }
+.themeToggleIcon { display: block; width: 30px; height: 30px; margin: 0; transform: translateY(1px); }
+
+.databaseDisclaimer {
+    position: fixed;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 66px;
+    width: min(92vw, 620px);
+    text-align: center;
+    font-family: "San Francisco";
+    font-weight: 300;
+    font-size: 10px;
+    line-height: 1.25;
+    color: rgba(80, 88, 95, 0.72);
+    letter-spacing: 0.01em;
+}
+.siteFooter {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: center;
+    margin: 0;
+    padding: 8px 10px 12px;
+    background: rgba(244, 244, 244, 0.9);
+    backdrop-filter: blur(8px);
+    color: #2d3d3d;
+}
+.siteFooter p { margin: 0; font-weight: 300; line-height: 1.45; }
+
+body.dark-mode {
+    background-color: #151a22;
+    color: #e9edf3;
+}
+body.dark-mode .topBar {
+    background: #000000;
+    box-shadow: 0 10px 26px rgba(0, 0, 0, 0.55);
+}
+body.dark-mode .main-header h1,
+body.dark-mode .main-header p,
+body.dark-mode .modalHeader,
+body.dark-mode #specsContainer p { color: #ffffff; }
+body.dark-mode .modelInput {
+    background: rgba(30, 36, 46, 0.7);
+    border: 1px solid rgba(126, 143, 170, 0.4);
+    color: #f5f7fb;
+}
+body.dark-mode .verifyBtn {
+    background: linear-gradient(160deg, #0a4c55, #1fc5d1);
+    color: #ffffff;
+    border-color: rgba(122, 162, 255, 0.45);
+}
+body.dark-mode .modalContainer {
+    background: linear-gradient(150deg, rgba(27, 32, 43, 0.56), rgba(30, 40, 56, 0.42));
+    border: 1px solid rgba(130, 150, 190, 0.35);
+    box-shadow: 0 26px 58px rgba(0, 0, 0, 0.45);
+}
+body.dark-mode #specsContainer {
+    background: rgba(24, 31, 43, 0.48);
+    border: 1px solid rgba(120, 140, 170, 0.35);
+}
+body.dark-mode .modelPhotoItem {
+    border-color: rgba(120, 140, 170, 0.4);
+    background: rgba(18, 24, 34, 0.58);
+}
+body.dark-mode .databaseDisclaimer { color: rgba(220, 230, 240, 0.68); }
+body.dark-mode .siteFooter {
+    color: #d9e6e6;
+    background: rgba(0, 0, 0, 0.85);
+}
