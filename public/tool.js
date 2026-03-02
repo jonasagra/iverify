@@ -17,6 +17,7 @@ const closeBtn = document.getElementById("closeBtn");
 const modelInput = document.getElementById("modelInput");
 const checkBtn = document.getElementById("checkBtn");
 const darkMode = document.getElementById("themeToggleApple");
+const databaseUpdatedDate = document.getElementById("databaseUpdatedDate");
 
 const regexModel = /^([MNPF])([A-Z0-9]{4,6})([A-Z]{2})(?:\/([A-Z]{1,2}))?$/;
 const themeStorageKey = "iverifyTheme";
@@ -94,8 +95,22 @@ let modelCatalog = [];
 function canonicalizeColorName(value) {
     const cleaned = String(value || "").trim();
     if (!cleaned) return "";
-    const alias = colorAliasMap[cleaned.toLowerCase()];
-    return alias || cleaned;
+    const lower = cleaned.toLowerCase();
+
+    const directAlias = colorAliasMap[lower];
+    if (directAlias) return directAlias;
+
+    const withoutParentheses = lower.replace(/\s*\([^)]*\)\s*/g, " ").replace(/\s+/g, " ").trim();
+    const baseAlias = colorAliasMap[withoutParentheses];
+    if (baseAlias) return baseAlias;
+
+    const insideParentheses = lower.match(/\(([^)]+)\)/)?.[1]?.trim();
+    if (insideParentheses) {
+        const innerAlias = colorAliasMap[insideParentheses];
+        if (innerAlias) return innerAlias;
+    }
+
+    return cleaned;
 }
 
 function normalizeColorNames(value) {
@@ -230,12 +245,12 @@ checkBtn.addEventListener("click", () => {
         return;
     }
 
-    numberModelOutput.textContent = `Codigo completo: ${result.fullCode}`;
-    countryOutput.textContent = `Pais do fabricante: ${result.country}`;
+    numberModelOutput.textContent = `Código completo: ${result.fullCode}`;
+    countryOutput.textContent = `País do fabricante: ${result.country}`;
     modelOutput.textContent = `Modelo: ${result.modelName}`;
     sulfixOutput.textContent = `Sufixo: ${result.sulfix}`;
     typeOutput.textContent = `Tipo: ${result.type}`;
-    colorOutput.textContent = `Cores disponiveis: ${result.colors.join(", ")}`;
+    colorOutput.textContent = `Cores disponíveis: ${result.colors.join(", ")}`;
     storageOutput.textContent = `Armazenamentos: ${result.storages.join(", ")}`;
     renderResultColorSwatches(result.colors);
     renderModelPhotos(result.photos, result.modelName);
@@ -266,6 +281,20 @@ systemThemeQuery.addEventListener("change", (event) => {
     document.body.classList.toggle("dark-mode", isDark);
 });
 
+async function loadDatabaseUpdatedDate() {
+    if (!databaseUpdatedDate) return;
+    try {
+        const response = await fetch("./sync-meta.json", { cache: "no-store" });
+        if (!response.ok) return;
+        const meta = await response.json();
+        if (meta?.lastUpdateLabel) {
+            databaseUpdatedDate.textContent = meta.lastUpdateLabel;
+        }
+    } catch {
+        // Mantem data padrao do HTML quando o meta nao existir.
+    }
+}
+
 async function initCatalog() {
     try {
         const response = await fetch("./models.json", { cache: "no-store" });
@@ -278,4 +307,5 @@ async function initCatalog() {
 }
 
 applySavedTheme();
+loadDatabaseUpdatedDate();
 initCatalog();
