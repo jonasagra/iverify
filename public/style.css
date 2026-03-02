@@ -18,6 +18,8 @@ body {
     margin: 0;
     padding-bottom: 64px;
     background-color: rgb(244, 244, 244);
+    overflow-x: hidden;
+    overflow-y: hidden;
 }
 .pageCenter {
     min-height: calc(100vh - 130px);
