@@ -225,7 +225,19 @@ body {
     backdrop-filter: blur(8px);
     color: #2d3d3d;
 }
-.siteFooter p { margin: 0; font-weight: 300; line-height: 1.45; }
+.siteFooter p {
+    margin: 0;
+    font-weight: 300;
+    line-height: 1.18;
+    font-size: 11px;
+    color: rgba(80, 88, 95, 0.72);
+    letter-spacing: 0.01em;
+}
+.siteFooter a {
+    color: inherit;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
 
 body.dark-mode {
     background-color: #151a22;
@@ -267,3 +279,4 @@ body.dark-mode .siteFooter {
     color: #d9e6e6;
     background: rgba(0, 0, 0, 0.85);
 }
+body.dark-mode .siteFooter p { color: rgba(220, 230, 240, 0.76); }
