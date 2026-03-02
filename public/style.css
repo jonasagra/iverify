@@ -23,6 +23,21 @@ body {
     -webkit-overflow-scrolling: touch;
     -ms-overflow-style: auto;
 }
+@media (min-width: 1200px) and (min-height: 800px) {
+    body {
+        overflow-y: hidden;
+    }
+}
+@media (min-width: 821px) {
+    body {
+        overflow-y: hidden;
+    }
+}
+@media (max-width: 820px) {
+    body {
+        overflow-y: auto;
+    }
+}
 
 body,
 .modalContainer {
@@ -30,10 +45,6 @@ body,
     scrollbar-color: rgba(44, 86, 110, 0.55) transparent;
 }
 
-/* Scrollbar da tela principal: mais discreta/premium */
-body {
-    scrollbar-color: rgba(44, 86, 110, 0.22) transparent;
-}
 
 body::-webkit-scrollbar,
 .modalContainer::-webkit-scrollbar {
@@ -55,10 +66,6 @@ body::-webkit-scrollbar-thumb,
     background-clip: padding-box;
 }
 
-body::-webkit-scrollbar-thumb {
-    background: rgba(44, 86, 110, 0.1);
-    border: 1.5px solid rgba(44, 86, 110, 0.26);
-}
 
 body::-webkit-scrollbar-thumb:hover,
 .modalContainer::-webkit-scrollbar-thumb:hover {
@@ -66,10 +73,6 @@ body::-webkit-scrollbar-thumb:hover,
     border-color: rgba(44, 86, 110, 0.78);
 }
 
-body::-webkit-scrollbar-thumb:hover {
-    background: rgba(44, 86, 110, 0.22);
-    border-color: rgba(44, 86, 110, 0.5);
-}
 .pageCenter {
     min-height: calc(100vh - 130px);
     display: flex;
