@@ -8,5 +8,5 @@ Atualmemte mais de 2.000 modelos de nomes internos cadastrados, podendo incluir 
 - País em que o iPhone foi fabricado
 - Tipo de modelo 
 
-# Criador
-- [Jonas Agra](https://instagram.com/jnasagr), designer e criador.
+- Criado por [Jonas Agra](https://instagram.com/jnasagr).
+
