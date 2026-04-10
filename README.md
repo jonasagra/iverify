@@ -6,7 +6,8 @@ Atualmemte mais de 2.000 modelos de nomes internos cadastrados, podendo incluir 
 # Características
 - Imagens do modelo
 - País em que o iPhone foi fabricado
-- Tipo de modelo 
+- Tipo de modelo
 
+---
 - Criado por [Jonas Agra](https://instagram.com/jnasagr).
 
