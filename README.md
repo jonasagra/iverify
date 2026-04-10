@@ -9,5 +9,5 @@ Atualmemte mais de 2.000 modelos de nomes internos cadastrados, podendo incluir 
 - Tipo de modelo
 
 ---
-- Criado por [Jonas Agra](https://instagram.com/jnasagr).
+- Criado e desenvolvido por [Jonas Agra](https://instagram.com/jnasagr).
 
